@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(236, 87, 87);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(24, 22, 22);
+}
+
+header {
+    background-color: rgb(60, 121, 145);
+    text-align: center;
+    text-transform: capitalize;
+}
+
+nav {
+    justify-content: center;
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+#pic2 {
+    height: 290px;
+    width: auto;
+}
+
+#footer { 
+    height: 75px;
+    padding-top: 30px;
+    margin-top: 20px;
+    background-color: rgb(60, 121, 145);
+    color: rgb(22, 20, 20);
+    text-align: center;
+    vertical-align:auto;
+    text-transform: capitalize;
+
+}
